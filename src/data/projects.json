@@ -4,7 +4,6 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to implement software which would ensure smooth running of various functions of a ration shop like data entry of items sold, purchases, sales, inventory details, user management, adding customers .",
     "skills": ["VB.NET", "MS ACCESS"],
-    "demo": "https://www.example.com",
     "source": "https://github.com/Karthik-GR"
   },
   {
