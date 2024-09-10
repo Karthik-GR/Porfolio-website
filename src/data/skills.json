@@ -25,6 +25,14 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   }
