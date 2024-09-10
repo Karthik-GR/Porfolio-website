@@ -1,17 +1,26 @@
 [
   {
-    "title": "Ration Shop Management",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to implement software which would ensure smooth running of various functions of a ration shop like data entry of items sold, purchases, sales, inventory details, user management, adding customers .",
-    "skills": ["VB.NET", "MS ACCESS"],
-    "source": "https://github.com/Karthik-GR"
-  },
-  {
     "title": "Deep Learning Approach to Detection of Diabetic Retinopathy",
     "imageSrc": "projects/DR.png",
     "description": "This project involves utilizing advanced deep learning techniques to aid in the early detection and diagnosis of diabetic retinopathy (DR). Using CNN architecture, models are trained using retinal images to automatically detect signs of diabetic retinopathy and predict the category in an UI.",
     "skills": ["Python", "Streamlit", "Deep Learning"],
     "demo": "https://karthik-gr-dr-detection-streamlitapp-d9kuo8.streamlit.app/",
     "source": "https://github.com/Karthik-GR/DR-Detection"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Create a Expense tracker app in React using hooks (useState, useContext, useReducer) and Context API, Integrated a backend API with Express and MongoDB, transforming the app into a full-stack MERN application, Implemented state management and RESTful API communication to track and persist user expenses.",
+    "skills": ["ReactJS", "Node.js", "Express", "MongoDB"],
+    "demo": "https://karthik-gr-dr-detection-streamlitapp-d9kuo8.streamlit.app/",
+    "source": "https://github.com/Karthik-GR/DR-Detection"
+  },
+
+  {
+    "title": "Ration Shop Management",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to implement software which would ensure smooth running of various functions of a ration shop like data entry of items sold, purchases, sales, inventory details, user management, adding customers .",
+    "skills": ["VB.NET", "MS ACCESS"],
+    "source": "https://github.com/Karthik-GR"
   }
 ]
